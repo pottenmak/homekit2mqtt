@@ -44,7 +44,7 @@
     "express-basic-auth": "^1.1.5",
     "font-awesome": "^4.7.0",
     "free-jqgrid": "^4.15.4",
-    "hap-nodejs": "0.4.47",
+    "hap-nodejs": "^0.5.4",
     "homebridge-camera-ffmpeg": "^0.1.8",
     "jquery": "^3.3.1",
     "mqtt": "^2.18.1",
